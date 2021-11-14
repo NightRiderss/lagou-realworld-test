@@ -1,0 +1,9 @@
+node_modules
+api
+middleware
+pages
+plugins
+store
+utils
+api.sh
+app.html

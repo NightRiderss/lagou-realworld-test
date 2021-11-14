@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\home"
+      },
+      {
+        "path": "login",
+        "name": "login",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\login"
+      },
+      {
+        "path": "register",
+        "name": "register",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\login"
+      },
+      {
+        "path": "profile/:username",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\profile"
+      },
+      {
+        "path": "settings",
+        "name": "settings",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\settings"
+      },
+      {
+        "path": "editor",
+        "name": "editor",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\editor"
+      },
+      {
+        "path": "article/:slug",
+        "name": "article",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\article"
+      }
+    ]
+  }
+]
